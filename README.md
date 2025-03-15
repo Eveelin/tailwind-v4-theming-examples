@@ -2,6 +2,8 @@
 
 A comprehensive guide and example implementation for setting up custom themes and color schemes in Tailwind CSS v4 with Next.js and shadcn/ui.
 
+🔗 [Live Demo](https://tailwind-v4-theming-examples.vercel.app/)
+
 ## Features
 
 - 🎨 Multiple theme support (Light, Dark, and custom themes)
@@ -167,18 +169,15 @@ Each theme defines these essential variables:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
+## Resources
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+- [Tailwind CSS Next.js Installation Guide](https://tailwindcss.com/docs/installation/framework-guides/nextjs)
+- [shadcn/ui Dark Mode Guide](https://ui.shadcn.com/docs/dark-mode/next)
+- [Next.js Documentation](https://nextjs.org/docs)
+- [shadcn/ui Documentation](https://ui.shadcn.com/)
 
 ## Acknowledgments
 
 - [shadcn/ui](https://ui.shadcn.com/) for the theming implementation inspiration
 - [Tailwind CSS](https://tailwindcss.com/) for the excellent utility-first CSS framework
 - [next-themes](https://github.com/pacocoursey/next-themes) for theme management
-
-## Resources
-
-- [Tailwind CSS v4 Documentation](https://tailwindcss.com/)
-- [Next.js Documentation](https://nextjs.org/docs)
-- [shadcn/ui Documentation](https://ui.shadcn.com/)
